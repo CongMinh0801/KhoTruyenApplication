@@ -1,0 +1,82 @@
+[
+    {
+        "ten_sach" : "Già Thiên",
+        "anh_bia" : "",
+        "tac_gia" : "Thần Đông",
+        "id_nguoi_dang" : "",
+        "last_update" : "2023-11-28 12:00:00",
+        "the_loai" : ["Tiên hiệp", "Phiêu lưu", "Hành động"],
+        "so_luot_doc" : {
+            "toan_bo" : 124,
+            "theo_thang" : 80,
+            "theo_tuan" : 43,
+            "theo_ngay" : 8
+        },
+        "so_chuong" : 2,
+        "gioi_thieu" : "Diệp Phàm là nhân vật chính của toàn bộ câu chuyện, một người ngoài trông thư sinh, nhưng bên trong lại cực kỳ tráng kiện, hành động quyết đoán, nhưng lại là người ôn hòa, trọng tình cảm. Không có phi thăng khi mở đầu, không có tử vong để trọng sinh, không có khuyết tật, yếu kém. Diệp Phàm cứ bình thường trải qua những tao ngộ đầy hấp dẫn."
+    },
+    {
+        "ten_sach" : "Thế Giới Hoàn Mỹ",
+        "anh_bia" : "",
+        "tac_gia" : "Thần Đông",
+        "id_nguoi_dang" : "",
+        "last_update" : "2023-11-27 16:00:00",
+        "the_loai" : ["Tiên hiệp", "Huyền huyễn", "Hành động", "Phiêu lưu"],
+        "so_luot_doc" : {
+            "toan_bo" : 136,
+            "theo_thang" : 82,
+            "theo_tuan" : 40,
+            "theo_ngay" : 10
+        },
+        "so_chuong" : 3,
+        "gioi_thieu" : "Một hạt bụi có thể lấp biển, một cọng cỏ chém hết mặt trời mặt trăng và ngôi sao, trong nháy mắt ở giữa long trời lỡ đất. Quần hùng cùng nổi lên, vạn tộc mọc lên san sát như rừng, chư thánh tranh bá, loạn khắp đất trời. Hỏi mặt đất bao la, cuộc đời thăng trầm? Một thiếu niên theo trong đất hoang đi ra, tất cả bắt đầu từ nơi này..."
+    },
+    {
+        "ten_sach" : "Hai Tuần Trong Căn Nhà Ma",
+        "anh_bia" : "",
+        "tac_gia" : "Nam Nguyễn",
+        "id_nguoi_dang" : "",
+        "last_update" : "2023-11-28 13:00:00",
+        "the_loai" : ["Kinh dị", "Tâm lí"],
+        "so_luot_doc" : {
+            "toan_bo" : 114,
+            "theo_thang" : 70,
+            "theo_tuan" : 18,
+            "theo_ngay" : 5
+        },
+        "so_chuong" : 3,
+        "gioi_thieu" : "Ngân Tô, con người xui xẻo từ nhỏ, bị kéo vào trong một trò chơi sinh tồn vô hạn. Sau khi bị nhốt trong phó bản đầu tiên, muốn sống muốn chết luân hồi vô số lần thì cuối cùng cô cũng quay trở lại tiến trình bình thường của trò chơi."
+    },
+    {
+        "ten_sach" : "Yêu em từ cái nhìn đầu tiên",
+        "anh_bia" : "",
+        "tac_gia" : "Cố mạn",
+        "id_nguoi_dang" : "",
+        "last_update" : "2023-11-28 15:00:00",
+        "the_loai" : ["Ngôn tình", "Tâm lí"],
+        "so_luot_doc" : {
+            "toan_bo" : 134,
+            "theo_thang" : 63,
+            "theo_tuan" : 27,
+            "theo_ngay" : 18
+        },
+        "so_chuong" : 3,
+        "gioi_thieu" : "Thế giới ảo- cầu nối của những trái tim... \nTruyện Yêu Em Từ Cái Nhìn Đầu Tiên của Cố Mạn kể về câu chuyện tình yêu bắt đầu từ thế giới ảo, nơi giao lưu giữa các bạn trẻ với nhau."
+    },
+    {
+        "ten_sach" : "Sư huynh của ta quá mạnh",
+        "anh_bia" : "",
+        "tac_gia" : "Khá Ninh",
+        "id_nguoi_dang" : "",
+        "last_update" : "2023-11-29 08:30:00",
+        "the_loai" : ["Hài Hước", "Tiên hiệp", "Huyền Huyễn"],
+        "so_luot_doc" : {
+            "toan_bo" : 138,
+            "theo_thang" : 68,
+            "theo_tuan" : 24,
+            "theo_ngay" : 16
+        },
+        "so_chuong" : 2,
+        "gioi_thieu" : "Đại sư huynh luôn miệt mài học hỏi và phát triển bản thân, trong khi Nhị sư huynh lại lười biếng và thích thoải mái.\nVì vậy, Đại sư huynh được tôn vinh là thiên tài trong môn phái, và Nhị sư huynh bị xem thường và coi thường."
+    }
+]

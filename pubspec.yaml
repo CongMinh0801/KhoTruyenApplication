@@ -1,0 +1,52 @@
+name: lang_s_application4
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  firebase_core: ^2.24.0
+  firebase_storage: ^11.5.3
+  image_picker: ^1.0.4
+  provider: ^6.0.6
+  firebase_auth: ^4.0.0
+  collection: ^1.15.0
+  cloud_firestore: ^4.13.3
+  cached_network_image: ^3.2.1
+  flutter_svg: ^1.1.6
+  flutter_staggered_grid_view: ^0.4.1
+  intl: ^0.18.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+    - assets/Khotruyen_JSON/
+    - assets/AnhDaiDienAPP.png
+  fonts: 
+    - family: Inter
+      fonts: 
+        - asset: assets/fonts/InterRegular.ttf
+          weight: 400
+        - asset: assets/fonts/InterBold.ttf
+          weight: 700
+        - asset: assets/fonts/InterMedium.ttf
+          weight: 500
+    - family: Open Sans
+      fonts: 
+        - asset: assets/fonts/OpenSansRegular.ttf
+          weight: 400
+    - family: Poppins
+      fonts: 
+        - asset: assets/fonts/PoppinsBold.ttf
+          weight: 700
+        - asset: assets/fonts/PoppinsSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/PoppinsMedium.ttf
+          weight: 500
+        - asset: assets/fonts/PoppinsRegular.ttf
+          weight: 400
